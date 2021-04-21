@@ -1,0 +1,15 @@
+# Onboard 25MHz oscillator
+set_io clk_25mhz 60
+
+set_io tx 62
+set_io rx 61
+
+set_io led[0] 21
+set_io led[1] 22
+set_io led[2] 25
+set_io led[3] 26
+set_io led[4] 19
+set_io led[5] 20
+set_io led[6] 23
+set_io led[7] 24
+
